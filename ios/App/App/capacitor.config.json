@@ -1,0 +1,11 @@
+{
+	"appId": "com.ridevesta",
+	"appName": "vesta",
+	"bundledWebRuntime": true,
+	"webDir": "www",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	}
+}
